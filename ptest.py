@@ -5,3 +5,4 @@ c = a+b
 print("value of c is ",c)
 print("w ho am i")
 print("hhjjhghjgj")
+print("git scm")
